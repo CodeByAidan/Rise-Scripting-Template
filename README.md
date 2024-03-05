@@ -523,7 +523,7 @@ Remember as of March 4th, 2024, the libraries were exported and located in the [
 
 **Integration**
 
-- [discord](https://pypi.org/project/discord.py/) - Discord API Wrapper
+- [discord](https://pypi.org/project/discord.py-self/) - Discord API Wrapper
 - [lxml](https://pypi.org/project/lxml/) - XML/HTML Processing
 
 ---
