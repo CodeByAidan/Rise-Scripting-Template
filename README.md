@@ -46,7 +46,7 @@ the Rise/Discord.py API, and with Python in general!
 
 ## See this online!
 
-**If you want to read this online, you can visit [here](https://gist.github.com/CodeByAidan/143c648978e7c460fa10ce640392630e)!**
+**If you want to read this online, you can visit [here](https://github.com/CodeByAidan/Rise-Scripting-Template)!**
 
 ---
 
